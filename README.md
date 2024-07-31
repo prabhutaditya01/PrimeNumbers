@@ -1,1 +1,1 @@
-Install the required Libraries from the requiremnets.txt 
+Install the required Libraries from the requirements.txt 
